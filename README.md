@@ -82,6 +82,6 @@ Researching and applying machine learning and deep learning to NLP, with a focus
 
 **Interested in multilingual AI, multimodal agents, and turning research into working systems.**
 
-[Browse my repositories](https://github.com/NguyenPhuongDng?tab=repositories)
+[Connect on LinkedIn](https://www.linkedin.com/in/dong-nguyen-phuong-b85b6a398) · [Browse my repositories](https://github.com/NguyenPhuongDng?tab=repositories)
 
 </div>
